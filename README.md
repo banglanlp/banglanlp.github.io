@@ -6,6 +6,7 @@ We are a group of researchers and engineers who are currently maintaining resour
 * [https://github.com/banglanlp/bnlp-resources](https://github.com/banglanlp/bnlp-resources)
 * [https://github.com/banglanlp/bangla-sentiment-classification](https://github.com/banglanlp/bangla-sentiment-classification)
 * [https://github.com/Bangla-Language-Processing/Bangla-Speech-Corpora](https://github.com/Bangla-Language-Processing/Bangla-Speech-Corpora)
+* [https://github.com/Bangla-Language-Processing/Katha-Bangla-TTS](https://github.com/Bangla-Language-Processing/Katha-Bangla-TTS)
 
 
 ## Contact

@@ -9,7 +9,7 @@ We are a group of researchers and engineers who are currently maintaining resour
 
 
 ## Contact
-- 📫 You can reach out to us by banglanlp@gmail.com </br>
-For more information please visit: [https://banglanlp.org/](https://banglanlp.org/)
+- 📫 You can reach out to us by banglanlp@gmail.com
+- For more information please visit: [https://banglanlp.org/](https://banglanlp.org/)
 
 
